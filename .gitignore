@@ -1,0 +1,8 @@
+*.vwf
+*.bak
+testingClk.v
+testubgWriting.v
+*.json
+c5_pin_model_dump.txt
+*.vwf.vt
+

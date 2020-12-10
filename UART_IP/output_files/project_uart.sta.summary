@@ -1,0 +1,213 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -5.813
+TNS   : -1173.069
+
+Type  : Slow 1100mV 85C Model Setup 'reset'
+Slack : -3.384
+TNS   : -93.895
+
+Type  : Slow 1100mV 85C Model Setup 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -2.955
+TNS   : -54.994
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : -0.232
+TNS   : -0.447
+
+Type  : Slow 1100mV 85C Model Hold 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : 0.736
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'reset'
+Slack : 0.945
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -5.833
+TNS   : -133.693
+
+Type  : Slow 1100mV 85C Model Recovery 'clk'
+Slack : -4.290
+TNS   : -1003.747
+
+Type  : Slow 1100mV 85C Model Removal 'clk'
+Slack : -0.303
+TNS   : -3.315
+
+Type  : Slow 1100mV 85C Model Removal 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : 2.272
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -0.467
+TNS   : -23.483
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -238.765
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'reset'
+Slack : 0.010
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -5.720
+TNS   : -1140.745
+
+Type  : Slow 1100mV 0C Model Setup 'reset'
+Slack : -3.510
+TNS   : -97.800
+
+Type  : Slow 1100mV 0C Model Setup 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -2.980
+TNS   : -54.560
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : -0.244
+TNS   : -0.666
+
+Type  : Slow 1100mV 0C Model Hold 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : 0.739
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'reset'
+Slack : 1.014
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -5.806
+TNS   : -132.796
+
+Type  : Slow 1100mV 0C Model Recovery 'clk'
+Slack : -4.085
+TNS   : -958.388
+
+Type  : Slow 1100mV 0C Model Removal 'clk'
+Slack : -0.342
+TNS   : -4.611
+
+Type  : Slow 1100mV 0C Model Removal 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : 2.321
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -0.478
+TNS   : -23.535
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -255.607
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'reset'
+Slack : 0.010
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -3.710
+TNS   : -699.385
+
+Type  : Fast 1100mV 85C Model Setup 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -2.056
+TNS   : -28.414
+
+Type  : Fast 1100mV 85C Model Setup 'reset'
+Slack : -1.478
+TNS   : -38.471
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : -0.309
+TNS   : -0.947
+
+Type  : Fast 1100mV 85C Model Hold 'reset'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -3.500
+TNS   : -80.331
+
+Type  : Fast 1100mV 85C Model Recovery 'clk'
+Slack : -2.607
+TNS   : -613.753
+
+Type  : Fast 1100mV 85C Model Removal 'clk'
+Slack : -0.315
+TNS   : -8.709
+
+Type  : Fast 1100mV 85C Model Removal 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : 1.136
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.260
+TNS   : -46.295
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'reset'
+Slack : -0.188
+TNS   : -7.786
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -0.181
+TNS   : -4.225
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -3.305
+TNS   : -602.378
+
+Type  : Fast 1100mV 0C Model Setup 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -1.969
+TNS   : -25.595
+
+Type  : Fast 1100mV 0C Model Setup 'reset'
+Slack : -1.357
+TNS   : -35.521
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : -0.314
+TNS   : -1.064
+
+Type  : Fast 1100mV 0C Model Hold 'reset'
+Slack : 0.265
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -3.490
+TNS   : -80.181
+
+Type  : Fast 1100mV 0C Model Recovery 'clk'
+Slack : -2.522
+TNS   : -597.611
+
+Type  : Fast 1100mV 0C Model Removal 'clk'
+Slack : -0.295
+TNS   : -7.997
+
+Type  : Fast 1100mV 0C Model Removal 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : 1.166
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.245
+TNS   : -45.523
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'reset'
+Slack : -0.158
+TNS   : -6.878
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'BAUD_GEN:baudGen|ClockGenNM:baudGen|Nout'
+Slack : -0.126
+TNS   : -2.679
+
+------------------------------------------------------------

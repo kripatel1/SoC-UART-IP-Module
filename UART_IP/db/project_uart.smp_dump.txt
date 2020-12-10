@@ -1,0 +1,28 @@
+
+State Machine - |transmitter|state
+Name state.A state.J state.I state.H state.G state.F state.E state.D state.C state.B state.IDLE 
+state.IDLE 0 0 0 0 0 0 0 0 0 0 0 
+state.B 0 0 0 0 0 0 0 0 0 1 1 
+state.C 0 0 0 0 0 0 0 0 1 0 1 
+state.D 0 0 0 0 0 0 0 1 0 0 1 
+state.E 0 0 0 0 0 0 1 0 0 0 1 
+state.F 0 0 0 0 0 1 0 0 0 0 1 
+state.G 0 0 0 0 1 0 0 0 0 0 1 
+state.H 0 0 0 1 0 0 0 0 0 0 1 
+state.I 0 0 1 0 0 0 0 0 0 0 1 
+state.J 0 1 0 0 0 0 0 0 0 0 1 
+state.A 1 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |transmitter|nextstate
+Name nextstate.A nextstate.J nextstate.I nextstate.H nextstate.G nextstate.F nextstate.E nextstate.D nextstate.C nextstate.B nextstate.IDLE 
+nextstate.IDLE 0 0 0 0 0 0 0 0 0 0 0 
+nextstate.B 0 0 0 0 0 0 0 0 0 1 1 
+nextstate.C 0 0 0 0 0 0 0 0 1 0 1 
+nextstate.D 0 0 0 0 0 0 0 1 0 0 1 
+nextstate.E 0 0 0 0 0 0 1 0 0 0 1 
+nextstate.F 0 0 0 0 0 1 0 0 0 0 1 
+nextstate.G 0 0 0 0 1 0 0 0 0 0 1 
+nextstate.H 0 0 0 1 0 0 0 0 0 0 1 
+nextstate.I 0 0 1 0 0 0 0 0 0 0 1 
+nextstate.J 0 1 0 0 0 0 0 0 0 0 1 
+nextstate.A 1 0 0 0 0 0 0 0 0 0 1 
