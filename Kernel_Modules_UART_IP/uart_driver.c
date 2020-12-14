@@ -1,6 +1,6 @@
-// QE IP Example
-// QE Driver (qe_driver.c)
-// Jason Losh
+// UART IP 
+// UART Driver (uart_driver.c)
+// KRISHNA PATEL
 
 //-----------------------------------------------------------------------------
 // Hardware Target
